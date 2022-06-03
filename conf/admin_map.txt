@@ -1,0 +1,27 @@
+index             = basic_model/simple_put_model.inc:simple_put_model admin_login.tpl 
+login             = admin/: .
+logout            = admin/: .
+top               = admin/top.inc:top admin_member.tpl
+
+#########################
+# 
+
+info = admin/: admin_info.tpl
+info_fin = admin/: .
+
+member_edit = admin/: user_info.tpl
+member_fin = admin/: .
+member_del = admin/: .
+
+admin_mail = admin/: admin_mail.tpl
+mail_fin = admin/: .
+
+ignore_list = admin/: .
+ignore_list_fin = admin/: .
+ignore_list_del = admin/: .
+
+meigara = admin/: meigara.tpl
+meigara_fin = admin/: .
+
+menu = admin/: admin_menu.tpl
+

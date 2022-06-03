@@ -1,0 +1,30 @@
+##########################################################
+# ベース
+
+##########################
+# 画面
+# 
+# トップ
+index = : login.tpl
+top = : index.tpl
+
+# ログイン
+login = : .
+logout = : .
+
+asukai = : .
+asuuri = : .
+detail = : .
+newmember = : .
+newmember_post = : .
+password = : .
+password_fin = : .
+search_focus = : .
+search_focus2 = : .
+search_focus3 = : .
+search_rise = : .
+user_info = : .
+user_info_fin = : .
+watchlist = : .
+
+clip = : .
